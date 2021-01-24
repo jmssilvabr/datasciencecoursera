@@ -1,22 +1,10 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 ```{r}
-library(githubinstall)
+## This is a markdown file#
 
-
-```
-
-# Ze baitola
-
-
-```{r}
-git remote add origin https://github.com/jmssilvabr/datasciencecoursera.git
-git branch -M main
-git push -u origin main
-```
-
-
-
-```{r}
-##This is a markdown file
-it commit -m "first commit"
 ```
 
